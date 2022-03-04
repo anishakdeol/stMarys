@@ -1,0 +1,11 @@
+body {
+    background-color: rgb(123, 202, 207);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+@media only screen and (max-width: 799px){
+    body {
+        background-color: rgba(194, 42, 171, 0.877);
+        font-family: Impact, Haettenschweiler, ‘Arial Narrow Bold’, sans-serif;
+    }
+}
